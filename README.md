@@ -45,7 +45,7 @@
 - 🖼️ Canva
 
  **Collaboration Tools:**  
-- 🧑‍💻 Git  
+-  Git  
 - 🐙 GitHub  
 - 📒 Notion
 
