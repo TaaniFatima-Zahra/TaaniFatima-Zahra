@@ -1,6 +1,6 @@
 ## Hi there, I'm Taani Fatima-Zahra. 👋
  
-   **🌟 About Me:** 
+   **🌟 About Me:**   
 🎓 Computer Science Student at ENSAO, specializing in web and mobile application development.  
 👩‍💻 Passionate about designing and implementing innovative solutions to solve real-world problems.  
 🎨 A creative and analytical thinker, dedicated to crafting intuitive, user-friendly, and visually appealing digital experiences.  
