@@ -7,6 +7,7 @@
 🌐 Multilingual: Fluent in Arabic, French, and English, enabling effective communication in diverse environments.  
 
    **💡 What I’m Currently Working On:**  
+🚜 Currently working on my PFA: developing an agricultural application and dashboard using MQTT protocol, Angular 18, Spring Boot, and JDK 17 to enable real-time monitoring and control of farming data.
 🌱 Enhancing my expertise in **Symfony** and **ASP.NET Core** for robust application development.   
 🖥️ Developing projects that integrate frontend and backend solutions  
 🛠 Developing a **Ticket Management System** in **.NET** to streamline ticket creation, updates, and resolutions.  
@@ -28,13 +29,16 @@
 - ⚛️ React  
 - 🔄 AJAX  
 - 🎨 Tailwind CSS
-
+- Angular
 
  **Backend Development:**  
 - 🖥️ Symfony 
 - ⚙️ ASP.NET Core
-- 🏗️ Entity Framework 
 - ☕ Java (Spring, JEE, JavaFX)
+- 📡 MQTT Protocol
+
+ **Network & Protocols:**
+🌐 Solid understanding of network protocols and communication models (MQTT, HTTP, TCP/IP)
 
  **Mobile Development:**  
 - 📱 Android development using **Java** and **XML**  
@@ -50,5 +54,5 @@
 - 📒 Notion
 
 
-📧 Email: **fatimattani90@gmail.com**  
-💼 LinkedIn: Taani Fatima-Zahra
+📧 Email: **fatima-zahra.taani23@ump.ac.ma**  
+💼 LinkedIn: **Taani Fatima-Zahra**
