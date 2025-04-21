@@ -53,6 +53,5 @@
 - 🐙 GitHub  
 - 📒 Notion
 
-
 📧 Email: **fatima-zahra.taani23@ump.ac.ma**  
 💼 LinkedIn: **Taani Fatima-Zahra**
